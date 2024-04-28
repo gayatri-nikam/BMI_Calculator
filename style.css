@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(236, 201, 201);
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+#results {
+    font-size: 20px;
+    font-weight: 500;
+}
